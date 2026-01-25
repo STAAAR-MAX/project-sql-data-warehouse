@@ -1,4 +1,4 @@
-<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/1ce7f0d2-928f-4298-b083-8b2a3a605c2c" /># Data Warehouse & Analytics Project 🚀
+# Data Warehouse & Analytics Project 🚀
 
 Repository ini berisi project Data Warehouse dan Analytics, mulai dari membangun data warehouse hingga menghasilkan insight yang siap digunakan untuk pengambilan keputusan bisnis.  
 Project ini dibuat sebagai portfolio, sekaligus menunjukkan penerapan best practice industri di bidang data engineering dan data analytics.
