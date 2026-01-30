@@ -47,6 +47,6 @@ Saya sedang mempelajari dan membangun karier di bidang **Data Analyst**, dengan 
 
 Saat ini saya mengerjakan beberapa project menggunakan SQL dan tools pendukung lainnya. Repository ini merupakan bagian dari portfolio saya untuk menerapkan konsep analisis data pada studi kasus nyata.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-aripidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-aripidi-648959361)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sultan.vr.46/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/staaar_46/)
