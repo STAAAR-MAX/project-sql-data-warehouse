@@ -33,6 +33,22 @@ Insight ini membantu stakeholder memahami kinerja bisnis dan mendukung pengambil
 
 ---
 
+### 📈 BI: Data Visualization (Dashboard)
+
+#### 🎯 Objective
+Membangun dashboard interaktif untuk memberikan visualisasi mendalam terkait performa penjualan, sehingga memudahkan stakeholder dalam memahami kondisi bisnis secara cepat dan akurat.
+
+#### Scope
+Dashboard difokuskan pada dua area utama:
+
+- **🛒 Product Sales Dashboard**  
+  Visualisasi performa produk berdasarkan metrik seperti total sales, profit, quantity sold, dan tren penjualan. Dashboard ini membantu mengidentifikasi produk dengan kinerja terbaik serta produk yang memerlukan perhatian lebih.
+
+- **👤 Customer Sales Dashboard**  
+  Menampilkan pola pembelian pelanggan, segmentasi customer, total nilai transaksi, dan kontribusi revenue per pelanggan. Insight ini mendukung strategi retensi serta pengembangan customer base.
+
+Dashboard dikembangkan dengan prinsip desain yang informatif, clean, dan mudah dipahami, sehingga dapat digunakan langsung oleh stakeholder untuk mendukung pengambilan keputusan bisnis.
+
 ## 🛡️ License
 
 Project ini dilisensikan di bawah **MIT License**.  
