@@ -66,3 +66,4 @@ Saat ini saya mengerjakan beberapa project menggunakan SQL dan tools pendukung l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-aripidi-648959361)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sultan.vr.46/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/staaar_46/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://creative-mango-ae4.notion.site/Data-Warehouse-Project-2f24bed556dc8016a302eef2d4641bf2?source=copy_link)
